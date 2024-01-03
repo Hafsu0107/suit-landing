@@ -38,18 +38,18 @@ body {
 }
 .sec-two {
   display: flex;
-  margin-top: 20%;
+  margin-top: 17%;
 }
 .hero-img {
   position: absolute;
   left: 40%;
-  top: 19%;
+  top: 5%;
 }
 
 .k {
   position: absolute;
   left: 62%;
-  top: 24%;
+  top: 9%;
   padding: 5px;
   margin-left: -2%;
   margin-top: 3%;
@@ -57,7 +57,7 @@ body {
 .lang {
   position: absolute;
   left: 62%;
-  top: 24%;
+  top: 5%;
   padding: 5px;
   margin-left: -2%;
   margin-top: 10%;
@@ -65,7 +65,7 @@ body {
 .leads {
   position: absolute;
   left: 62%;
-  top: 24%;
+  top: -1%;
   padding: 5px;
   margin-left: -2%;
   margin-top: 18%;
@@ -75,5 +75,13 @@ body {
   font-size: 9px;
 }
 .sec-three {
-  background-color: ;
+  background-color: rgb(29, 29, 54);
+  color: #fff;
+  display: flex;
+  padding: 29px;
+  border-radius: 18px;
+}
+.work {
+  width: 23%;
+  margin-left: 30%;
 }
