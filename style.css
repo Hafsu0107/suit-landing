@@ -1,0 +1,79 @@
+* {
+  padding: 0;
+  margin: 0;
+  box-sizing: border-box;
+}
+body {
+  font-family: "Gill Sans", "Gill Sans MT", Calibri, "Trebuchet MS", sans-serif;
+}
+
+.container {
+  margin-left: 5%;
+  padding: 3%;
+}
+.nav-bar {
+  display: flex;
+}
+.request {
+  margin-left: 74%;
+  background-color: transparent;
+  padding: 9px;
+  border-radius: 6px;
+  font-weight: bold;
+  cursor: pointer;
+}
+.intro p {
+  width: 22%;
+  margin-top: 2%;
+  color: rgb(107, 100, 100);
+}
+.two {
+  background-color: rgb(23, 23, 48);
+  color: white;
+  padding: 10px;
+  border-radius: 6px;
+  font-weight: bold;
+  cursor: pointer;
+  margin-top: 3%;
+}
+.sec-two {
+  display: flex;
+  margin-top: 20%;
+}
+.hero-img {
+  position: absolute;
+  left: 40%;
+  top: 19%;
+}
+
+.k {
+  position: absolute;
+  left: 62%;
+  top: 24%;
+  padding: 5px;
+  margin-left: -2%;
+  margin-top: 3%;
+}
+.lang {
+  position: absolute;
+  left: 62%;
+  top: 24%;
+  padding: 5px;
+  margin-left: -2%;
+  margin-top: 10%;
+}
+.leads {
+  position: absolute;
+  left: 62%;
+  top: 24%;
+  padding: 5px;
+  margin-left: -2%;
+  margin-top: 18%;
+}
+.para {
+  color: rgb(107, 100, 100);
+  font-size: 9px;
+}
+.sec-three {
+  background-color: ;
+}
